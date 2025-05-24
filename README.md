@@ -1,19 +1,23 @@
- Lana Del Rey - UltraVibe
- 
-Seja bem-vindo(a)! Este é um projeto feito com muito carinho para reunir todos os álbuns da Lana Del Rey em um só lugar. Se você curte músicas que combinam letras profundas com melodias viciantes, este site é para você.
+🎧 Lana Del Rey – UltraVibe
+Seja bem-vindo(a)! Esse site foi feito com amor pra reunir todos os álbuns da Lana Del Rey num só lugar.
+
 
 🔗 Acesse o site aqui: [lana-del-rey-site](https://anapaularaica.github.io/lana-del-rey-site/)
 
-📌 Sobre o projeto
-A ideia aqui foi criar um espaço simples, bonito e funcional para visualizar a discografia da Lana Del Rey. Você pode conferir os álbuns, ver as capas e acessar links diretos para as plataformas de streaming.
+Sobre o projeto
+Um espaço simples, bonito e funcional pra explorar a discografia da Lana. Tem capas, álbuns e links diretos pras plataformas.
 
-🛠 Tecnologias utilizadas:
+Feito com:
 
 HTML
+
 CSS
+
 JavaScript
-✨ Recursos do site:
+
+O que tem no site:
 ✅ Galeria interativa dos álbuns
-✅ Links diretos para ouvir as músicas
-✅ Visual clean e intuitivo
+✅ Links pra ouvir direto
+✅ Visual clean e fácil de usar
+
 
